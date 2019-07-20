@@ -7,7 +7,7 @@ _______
 
 <h1>What the app looks like:</h1>
 
-![Game](StripeFollowAlongDropdown.png)
+![Game](https://i.imgur.com/CO35A5y.png)
 
 
 
@@ -18,13 +18,13 @@ This was the 26th project from the #JavaScript30 that i've completed. I built a 
 </h5>
 _____
 
-<h3>TThings I learned:</h3>
+<h3>Things I learned:</h3>
 <ul>
 <li>dropdownCoords</li>
 </ul>
 
 
 <h3>Goals:</h3>
-<ol>
+<ol></ol>
 <li>Make mobile responsive</li>
 </ol>
